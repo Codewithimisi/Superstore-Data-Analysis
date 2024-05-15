@@ -17,15 +17,15 @@ This project involves creating a database for the Superstore to store informatio
  
  #### 2. List the products along with their corresponding suppliers' names.
  
- #### 3. Find out which customers placed orders on a specific date.
+ #### 3. Find out which customers placed orders on 3rd of April, 2024.
  
  #### 4. Display the total quantity of each product sold.
  
- #### 5. Show the order details including product names for a given customer.
+ #### 5. Display the order details, along with product names and customer name, for the customer identified by ID 2.
  
  #### 6. Find the customers who have not placed any orders yet.
  
- #### 7. List the employees hired after a certain date.
+ #### 7. List the employees hired after July 1st, 2020.
  
  #### 8. Show the territories each employee is assigned to.
  
@@ -33,7 +33,7 @@ This project involves creating a database for the Superstore to store informatio
  
  #### 10. Display the total number of orders placed by each customer.
  
- #### 11. List the orders along with the corresponding order details for a given customer.
+ #### 11. List the orders along with the corresponding order details for the customer with ID 1.
  
  #### 12. Find the average quantity of products ordered in each order.
  
