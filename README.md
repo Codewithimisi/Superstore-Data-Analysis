@@ -9,8 +9,8 @@ This project involves creating a database for the Superstore to store informatio
 - Inserting records into tables
 - Querying the database
 
-[Creating database(SQL Code Analysis)]
-[Querying database(SQL Code Analysis)]
+- [**Creating database(SQL Code Analysis)**](https://github.com/Codewithimisi/Superstore-Data-Analysis/blob/main/creating%20database.sql)
+- [**Querying database(SQL Code Analysis)**](https://github.com/Codewithimisi/Superstore-Data-Analysis/blob/main/querying%20database.sql)
 
 ## Database Query Questions
 
