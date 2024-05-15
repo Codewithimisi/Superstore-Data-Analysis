@@ -9,7 +9,8 @@ This project involves creating a database for the Superstore to store informatio
 - Inserting records into tables
 - Querying the database
 
-
+[Creating database(SQL Code Analysis)]
+[Querying database(SQL Code Analysis)]
 
 ## Database Query Questions
 
